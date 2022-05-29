@@ -3,7 +3,7 @@
 
 ## Bem-vindo ao meu projeto 📕
 
-Neste projeto, eu construi o meu currículo através das linguagens HTML/CSS, com inclusão de fotos e abordagem sobre a minha biografia, carreira, hobbies e cursos.
+Neste projeto, eu construi o meu currículo através das linguagens HTML/CSS com inclusão de fotos, abordagem sobre a minha biografia, carreira, hobbies e cursos.
 
 
 ## Informações pessoais
